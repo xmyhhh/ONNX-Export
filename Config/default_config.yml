@@ -1,0 +1,9 @@
+
+ModelDefinePyPath:
+  - YoloV5Wrapper
+ModelDefineClassName:
+  - YoloV5ModelBuilder
+ModelPthPath:
+  - ./Pytorch/YoloV5/yolov5s.pt
+SavePath:
+  - ./ONNX/YoloV5/yolov5s.onnx
